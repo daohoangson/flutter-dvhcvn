@@ -1,0 +1,16 @@
+name: dvhcvn_demo
+description: Demo app for dvhcvn Dart package.
+publish_to: 'none'
+version: 1.0.0+1
+
+environment:
+  sdk: ">=2.7.0 <3.0.0"
+
+dependencies:
+  dvhcvn:
+  flutter:
+    sdk: flutter
+  provider:
+
+flutter:
+  uses-material-design: true
